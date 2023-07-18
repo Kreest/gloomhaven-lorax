@@ -59,10 +59,17 @@
             <td fixedsize="true" width="12" height="12"><img src="icons/modified/09 Circles.svg" /></td>
         </tr></table> 
         >]
-79, 38 [label=< 
+79, 38, 44 [label=< 
         <table cellspacing="2" cellpadding="0" border="0px"><tr>
             <td fixedsize="true" width="12" height="12"><img src="icons/modified/10 Eclipse.svg" /></td>
             <td fixedsize="true" width="12" height="12"><img src="icons/modified/07 Sun.svg" /></td>
             <td fixedsize="true" width="12" height="12"><img src="icons/modified/09 Circles.svg" /></td>
+        </tr></table> 
+        >]
+48 [label=< 
+        <table cellspacing="2" cellpadding="0" border="0px"><tr>
+            <td fixedsize="true" width="12" height="12"><img src="icons/modified/10 Eclipse.svg" /></td>
+            <td fixedsize="true" width="12" height="12"><img src="icons/modified/07 Sun.svg" /></td>
+            <td fixedsize="true" width="12" height="12"><img src="icons/modified/11 Squidface.svg" /></td>
         </tr></table> 
         >]

@@ -1,2 +1,5 @@
-./*.svg
-./*.png
+/*.svg
+/*.png
+/temp/*.svg
+/temp/*.dot
+/temp/*.png

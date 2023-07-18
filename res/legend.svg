@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="115pt" height="268pt" viewBox="0.00 0.00 115.00 268.00">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(904 564)">
+<title>G</title>
+<polygon fill="none" stroke="none" points="-4,4 -4,-264 111,-264 111,4 -4,4" />
+<polygon fill="none" stroke="black" points="8,-228 8,-256 99,-256 99,-228 8,-228" />
+<text text-anchor="start" x="35.88" y="-238.7" font-family="Pirata One" font-weight="bold" font-size="14.00">Legend</text>
+<polygon fill="#4cee65" fill-opacity="0.439216" stroke="none" points="8,-200 8,-228 99,-228 99,-200 8,-200" />
+<polygon fill="none" stroke="black" points="8,-200 8,-228 99,-228 99,-200 8,-200" />
+<text text-anchor="start" x="14.5" y="-209.7" font-family="Pirata One" font-size="14.00">Mainquest, new</text>
+<polygon fill="#a1dbd6" fill-opacity="0.564706" stroke="none" points="8,-172 8,-200 99,-200 99,-172 8,-172" />
+<polygon fill="none" stroke="black" points="8,-172 8,-200 99,-200 99,-172 8,-172" />
+<text text-anchor="start" x="13" y="-181.7" font-family="Pirata One" font-size="14.00">Mainquest, done</text>
+<polygon fill="#f29317" fill-opacity="0.564706" stroke="none" points="8,-144 8,-172 99,-172 99,-144 8,-144" />
+<polygon fill="none" stroke="black" points="8,-144 8,-172 99,-172 99,-144 8,-144" />
+<text text-anchor="start" x="16" y="-153.7" font-family="Pirata One" font-size="14.00">Sidequest, new</text>
+<polygon fill="#d76b4a" fill-opacity="0.564706" stroke="none" points="8,-116 8,-144 99,-144 99,-116 8,-116" />
+<polygon fill="none" stroke="black" points="8,-116 8,-144 99,-144 99,-116 8,-116" />
+<text text-anchor="start" x="14.5" y="-125.7" font-family="Pirata One" font-size="14.00">Sidequest, done</text>
+<polygon fill="#928ca2" fill-opacity="0.521569" stroke="none" points="8,-88 8,-116 99,-116 99,-88 8,-88" />
+<polygon fill="none" stroke="black" points="8,-88 8,-116 99,-116 99,-88 8,-88" />
+<text text-anchor="start" x="35.88" y="-97.7" font-family="Pirata One" font-size="14.00">Locked</text>
+<polygon fill="#ff00ff" fill-opacity="0.564706" stroke="none" points="8,-60 8,-88 99,-88 99,-60 8,-60" />
+<polygon fill="none" stroke="black" points="8,-60 8,-88 99,-88 99,-60 8,-60" />
+<text text-anchor="start" x="38.88" y="-69.7" font-family="Pirata One" font-size="14.00">Failed</text>
+<polygon fill="none" stroke="black" points="8,-32 8,-60 49,-60 49,-32 8,-32" />
+<text text-anchor="start" x="18" y="-41.7" font-family="Pirata One" font-size="14.00">. . . .</text>
+<polygon fill="none" stroke="black" points="49,-32 49,-60 99,-60 99,-32 49,-32" />
+<text text-anchor="start" x="54.5" y="-41.7" font-family="Pirata One" font-size="14.00">Mention</text>
+<polygon fill="none" stroke="black" points="8,-4 8,-32 49,-32 49,-4 8,-4" />
+<text text-anchor="start" x="13.5" y="-13.7" font-family="Pirata One" font-size="14.00">- - - -</text>
+<polygon fill="none" stroke="black" points="49,-4 49,-32 99,-32 99,-4 49,-4" />
+<text text-anchor="start" x="54.88" y="-13.7" font-family="Pirata One" font-size="14.00">Indirect</text>
+</g>
+</svg>

@@ -70,7 +70,7 @@ def inline_svg_images(svg) -> str:
 
 
 if __name__ == '__main__':
-    for svgfile in ["tree.svg", "legend.svg", "comp.svg", "retire.svg"]:
+    for svgfile in ["temp/tree.svg", "res/legend.svg", "temp/comp.svg", "temp/retire.svg"]:
         with open(svgfile) as f:
             svg = f.read()
             svg2 = inline_svg_images(svg)
@@ -80,10 +80,10 @@ if __name__ == '__main__':
             f.write(svg2)
             f.close()
 
-    with open("lorax.svg", "w") as w:
-        with open("tree.svg", "r") as r:
+    with open("temp/lorax.svg", "w") as w:
+        with open("temp/tree.svg", "r") as r:
             w.write(r.readline())
-        for svgfile in ["tree.svg", "legend.svg", "comp.svg", "retire.svg", "tree.svg"]:
+        for svgfile in ["res/legend.svg", "temp/comp.svg", "temp/retire.svg", "temp/tree.svg"]:
             with open(svgfile) as f:
                 svg = f.readlines()[1:-1]
 

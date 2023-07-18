@@ -1,0 +1,38 @@
+digraph G{
+node [fontname = "Pirata One"]
+graph [fontname = "Pirata One"]
+bgcolor="#00000000"
+label=<
+<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" CELLPADDING="4">
+    <TR>
+    <TD COLSPAN="2"><B>Legend</B></TD>
+    </TR>
+    <TR>
+    <TD COLSPAN="2" BGCOLOR="#4cee6570">Mainquest, new</TD>
+    </TR>
+    <TR>
+    <TD COLSPAN="2" BGCOLOR="#a1dbd690">Mainquest, done</TD>
+    </TR>
+    <TR>
+    <TD COLSPAN="2" BGCOLOR="#f2931790">Sidequest, new</TD>
+    </TR>
+    <TR>
+    <TD COLSPAN="2" BGCOLOR="#d76b4a90">Sidequest, done</TD>
+    </TR>
+    <TR>
+    <TD COLSPAN="2" BGCOLOR="#928CA285">Locked</TD>
+    </TR>
+    <TR>
+    <TD COLSPAN="2" BGCOLOR="#FF00FF90">Failed</TD>
+    </TR>
+    <TR>
+    <TD>. . . .</TD>
+    <TD>Mention</TD>
+    </TR>
+    <TR>
+    <TD>- - - -</TD>
+    <TD>Indirect</TD>
+    </TR>
+</TABLE>
+>
+}
